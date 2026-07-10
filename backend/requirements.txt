@@ -1,0 +1,7 @@
+fastapi>=0.115,<0.116
+uvicorn[standard]>=0.32,<0.33
+sqlalchemy>=2.0.35,<2.1
+pydantic[email]>=2.9,<3
+python-multipart>=0.0.12,<0.1
+python-dotenv>=1.0.1,<2
+requests>=2.32,<3
